@@ -1,0 +1,5 @@
+Credentials cache: API:2C2EC7F9-7BD7-4113-9EB1-F07833B3BE3F
+        Principal: munal@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 25 14:22:00 2021  Nov 26 00:22:00 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
